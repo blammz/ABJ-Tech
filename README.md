@@ -14,8 +14,8 @@ The Kaggle competition website has multiple data sets from various collaborators
   
 How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?
 
-Running the game of Connect X many times, we can keep track of how many times the computer wins and how long it takes to make a move, and we can make a graph relating time taken to make a move and win rate.  We can compare our results to the results of other competitors and see how much more efficient they are, along with other methods of evaluation
+Running the game of Connect X many times, we can keep track of how many times the computer wins and how long it takes to make a move, and we can make a graph relating time taken to make a move and win rate.  We can compare our results to the results of other competitors and see how much more efficient they are, along with other methods of evaluation.
 
 What method or algorithm are you proposing? If there are existing implementations, will you use them and how? How do you plan to improve or modify such implementations? 
 
-We will use a decision tree induction technique that can always discover a hypothesis that completely fits the training data) that outputs the optimal move for a given sequence of a certain length. This decision tree can be deserialized very efficiently by traversing the tree breadth-first and storing the information of the nodes.
+We will use a decision tree induction technique that can always discover a hypothesis that completely fits the training data that outputs the optimal move for a given sequence of a certain length. This decision tree can be deserialized very efficiently by traversing the tree breadth-first and storing the information of the nodes.
