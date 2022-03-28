@@ -2,7 +2,7 @@
 
 What is the problem that you will be investigating? Why is it interesting?
 
-Our company, ABJ Tech, will be investigating the game of Connect X, and finding the most efficient way to win the most games of Connect X.  Connect X is a very meticulous game that involves a lot of strategy and planning, and it will be interesting to simulate what move is the best in certain situations and determine what is the best course of action towards victory.
+Our company, ABJ Tech, will be investigating the game of Connect X, and finding the most efficient way to win the most games of Connect X (https://www.kaggle.com/competitions/connectx).  Connect X is a very meticulous game that involves a lot of strategy and planning, and it will be interesting to simulate what move is the best in certain situations and determine what is the best course of action towards victory.
 
 What reading will you examine to provide context and background?
 
